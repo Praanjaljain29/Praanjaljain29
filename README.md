@@ -5,5 +5,3 @@
 - 🌱 I’m presently learning  Java , php and c programming language 
 - 💬My hobbies are playing basketball, chess, swimming.
 
-- ⚡ Fun fact about me :   *humpe toh hai he nhi*
-
