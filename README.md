@@ -11,5 +11,5 @@ and learning through hands-on problem solving.
 - Backend logic and system design
 - Machine learning experiments on real data
 
-## Tools
+## My Weapons :)
 Python • Flutter • Firebase • Git • Linux • TypeScript • C++ • Java
