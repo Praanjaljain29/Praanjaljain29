@@ -12,4 +12,4 @@ and learning through hands-on problem solving.
 - Machine learning experiments on real data
 
 ## Tools
-Python • Flutter • Firebase • Git • Linux
+Python • Flutter • Firebase • Git • Linux • TypeScript • C++ • Java
